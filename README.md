@@ -26,7 +26,7 @@ I’m a Mobile App Developer with 7+ years of experience across full-stack engin
 
 ### Mobile
 <div align="center">
-  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart&perline=8" />
+  <img alt="Mobile stack" src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,reactnative&perline=8" />
 </div>
 
 ### Full-stack
